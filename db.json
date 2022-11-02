@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Mouse, four-striped grass","category":"Fuscia"},
+{"id":2,"name":"Caiman, spectacled","category":"Teal"},
+{"id":3,"name":"White-eye, cape","category":"Teal"},
+{"id":4,"name":"Galapagos tortoise","category":"Green"},
+{"id":5,"name":"Lizard, mexican beaded","category":"Violet"},
+{"id":6,"name":"Chestnut weaver","category":"Pink"},
+{"id":7,"name":"Racer, american","category":"Aquamarine"},
+{"id":8,"name":"Black and white colobus","category":"Khaki"},
+{"id":9,"name":"Long-tailed jaeger","category":"Fuscia"},
+{"id":10,"name":"Carmine bee-eater","category":"Puce"},
+{"id":11,"name":"Porcupine, prehensile-tailed","category":"Crimson"},
+{"id":12,"name":"Southern white-crowned shrike","category":"Puce"},
+{"id":13,"name":"Little cormorant","category":"Teal"},
+{"id":14,"name":"Dusky gull","category":"Maroon"},
+{"id":15,"name":"Lion, california sea","category":"Pink"},
+{"id":16,"name":"Rabbit, eastern cottontail","category":"Yellow"},
+{"id":17,"name":"Black-tailed tree creeper","category":"Maroon"},
+{"id":18,"name":"Mandras tree shrew","category":"Orange"},
+{"id":19,"name":"Mongoose, yellow","category":"Mauv"},
+{"id":20,"name":"Turtle, long-necked","category":"Turquoise"}
+]
+}
